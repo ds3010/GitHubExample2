@@ -1,0 +1,6 @@
+{
+    "githubPullRequests.hosts": [{
+        "host": "https://github.com/ds3010/GitHubExample2",
+        "token": "1b7f0837276bbec375d8301b622c1d2dc35482a3"
+      }]
+}
